@@ -1,2 +1,2 @@
 # TicTacToe-Game
- TicTacToe game
+ TicTacToe game using Java GUI.
