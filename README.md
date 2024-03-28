@@ -1,4 +1,4 @@
     # TicTacToe-Game
- TicTacToe game using Java GUI.
+  TicTacToe game using Java GUI.
   
  
